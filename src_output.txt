@@ -1,0 +1,170 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!!!f!!!0000000000401126 !!!s!!!opt.h #include <stdio.h>
+extern inline void printn(int n) {printf("%d", n);}
+
+
+
+!!!f!!!0000000000401131 !!!g!!!#include <stdio.h>
+extern inline void printn(int n) {printf("%d", n);}
+
+
+
+
+!!!f!!!0000000000401145 !!!g!!!#include <stdio.h>
+extern inline void printn(int n) {printf("%d", n);}
+
+
+!!!f!!!0000000000401148 !!!s!!!opt.c #include "opt.h"
+int main(void) {
+
+
+!!!f!!!0000000000401150     // hello
+    // hello2
+    int i;
+    i = 0;
+!!!f!!!0000000000401157     int j = i + 1;
+
+
+!!!f!!!0000000000401160     printf("%d\n", j);
+
+
+
+
+!!!f!!!0000000000401174     printn(7);
+
+!!!f!!!000000000040117e     return 0;
+!!!f!!!0000000000401183 }
+//hello3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
