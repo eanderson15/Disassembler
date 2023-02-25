@@ -1,6 +1,4 @@
-Names: Grant Yap, Eric Anderson
-Date: 11/5/2021
-Project: #4
+# Disassembler
 
 Files:
 disassem.py 
